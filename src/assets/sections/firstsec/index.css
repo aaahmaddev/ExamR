@@ -1,0 +1,17 @@
+section{
+    background-color: #0058530D;
+}
+.sec-inner{
+    background-image: url(../../images/FirstSecImages/Bgi.png);
+    background-size: cover;
+    background-position: center;
+}
+.sec-bottom-c-card , 
+.sec-bottom-s-card , 
+.sec-bottom-l-card , 
+.sec-bottom-h-card{
+    width: 250px;
+    height: 250px;
+    background-color: #fff;
+    border-radius: 15px;
+}
