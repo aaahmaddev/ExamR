@@ -1,4 +1,4 @@
-section{
+.first-sec{
     background-color: #0058530D;
 }
 .sec-inner{
@@ -14,4 +14,25 @@ section{
     height: 250px;
     background-color: #fff;
     border-radius: 15px;
+    cursor: pointer;
+}
+.sec-bottom-c-card:hover{
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;
+    transition: 0.6s ease;
+}
+
+.sec-bottom-s-card:hover{
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;
+    transition: 0.6s ease;
+}
+
+.sec-bottom-l-card:hover{
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;
+    transition: 0.6s ease;
+}
+
+
+.sec-bottom-h-card:hover{
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;
+    transition: 0.6s ease;
 }

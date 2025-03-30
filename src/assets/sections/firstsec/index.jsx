@@ -10,7 +10,7 @@ import HistoryLogo from '../../images/FirstSecImages/history.png'
 const index = () => {
     return (
         <>
-            <section>
+            <section className='first-sec'>
                 <div className="container">
                     <div className="sec-inner pt-5 pb-5">
 

@@ -1,0 +1,40 @@
+/* .second-sec-left{
+    background-image: url(../../images/SecondSecImages/worldmap.png);
+    background-size: cover;
+    background-position: center;
+} */
+
+.second-sec-t-card , 
+.second-sec-i-card , 
+.second-sec-n-card{
+    width: 659px;
+    height: 223px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.second-sec-t-card:hover{
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 30px 90px;
+    transition: 0.4s;
+}
+.second-sec-i-card:hover{
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 30px 90px;
+    transition: 0.4s;
+}
+.second-sec-n-card:hover{
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 30px 90px;
+    transition: 0.4s;
+}
+
+.second-sec-t-card-r , 
+.second-sec-i-card-r ,
+.second-sec-n-card-r{
+    gap: 70px;
+}
+
+
+.right-arrow{
+    width: 33px;
+    height: 33px;
+}
