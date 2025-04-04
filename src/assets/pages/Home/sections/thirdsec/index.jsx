@@ -1,9 +1,9 @@
 import React from 'react';
 import './index.css'
-import IndonesiaImg from '../../images/ThirdSecImages/indonesia.jpg'
-import JapanImg from '../../images/ThirdSecImages/japan.jpg'
-import MountainsImg from '../../images/ThirdSecImages/mountains.jpg'
-import LocationLogo from '../../images/ThirdSecImages/LocationLoogo.png'
+import IndonesiaImg from '../../../../images/ThirdSecImages/indonesia.jpg'
+import JapanImg from '../../../../images/ThirdSecImages/japan.jpg'
+import MountainsImg from '../../../../images/ThirdSecImages/mountains.jpg'
+import LocationLogo from '../../../../images/ThirdSecImages/LocationLoogo.png'
 
 const index = () => {
     return (

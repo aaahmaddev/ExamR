@@ -1,10 +1,9 @@
 import React from 'react';
 import './index.css'
-import BGI from '../../images/FirstSecImages/Bgi.png'
-import CalendarLogo from '../../images/FirstSecImages/calender.png'
-import StatickLogo from '../../images/FirstSecImages/statik.png'
-import LocLogo from '../../images/FirstSecImages/location.png'
-import HistoryLogo from '../../images/FirstSecImages/history.png'
+import CalendarLogo from '../../../../images/FirstSecImages/calender.png'
+import StatickLogo from '../../../../images/FirstSecImages/statik.png'
+import LocLogo from '../../../../images/FirstSecImages/location.png'
+import HistoryLogo from '../../../../images/FirstSecImages/history.png'
 
 
 const index = () => {
